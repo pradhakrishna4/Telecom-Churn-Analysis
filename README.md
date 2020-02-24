@@ -22,6 +22,6 @@ Help to identify possible CHURN-FLAG YES customers and provide more attention in
 * For training the data and predicting the target, algorithms used are Logistic Regression, Support Vector Machine, Decision Tree, Random Forest, Naive Bayes, XGBoost Classifier and Artificial Neural Network.
 * A separate analysis for creating the Churn Risk Scores is carried out.
 # Results
-The most important features affecting the Churn are International Plan,Day Charge,Cust Service Calls, Voice Mail Message, Evening Charge and International Charge. XGBoost gives an accuracy score of 95.6%. A new column Churn Flag can be predicted accurately with this model.
+The most important features affecting the Churn are International Plan,Day Charge,Cust Service Calls, Voice Mail Message, Evening Charge and International Charge. 
 # Recommendation
 From the models we can clearly find out the Churn YES Customers. We can undergo retention campaigns for them with lucrative offers, provide more attention in customer touch point areas, including customer care support, request fulfilment, auto categorizing tickets as high priority for quick resolutions any questions they may have etc.
